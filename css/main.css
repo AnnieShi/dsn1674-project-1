@@ -1,6 +1,7 @@
 html{
 	background-color: white;
 	font-family: "Times", cursive;
+	color: black;
 	font-size: 1rem;
 	line-height: 1.5rem;
 }
@@ -53,4 +54,16 @@ a:hover {
 	background-color: #b32f52;
 	color: white;
 
+}
+
+blockquote {
+	font-style: italic;
+	color: #b2a215;
+	text-align: center;
+}
+
+cite {
+	font-style: italic;
+	color: #b2a215;
+	text-align: center;
 }
